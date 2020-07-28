@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 801,
+      "userName": "klkjlkj",
+      "emailAddress": "lkjlk@lkkjlk.csdfa",
+      "mobileNo": "14654",
+      "address": "iouoiuio"
+    },
+    {
+      "id": 901
+    },
+    {
+      "userName": "XXXX",
+      "emailAddress": "sadf@sdf.sdf",
+      "mobileNo": "654564",
+      "address": "sadf",
+      "id": 902
+    },
+    {
+      "userName": "sdafsad",
+      "emailAddress": "sdfa@lkjlkj.dsf",
+      "mobileNo": "65554",
+      "address": "sadfuiouio",
+      "id": 903
+    },
+    {
+      "userName": "lkkjlkjsf",
+      "emailAddress": "lkjlkj@dsfdlk.sd",
+      "mobileNo": "65454",
+      "address": "asfd",
+      "id": 904
+    },
+    {
+      "userName": "sfadl;;",
+      "id": 905
+    },
+    {
+      "id": 906
+    },
+    {
+      "address": "asdf",
+      "id": 907
+    }
+  ]
+}
